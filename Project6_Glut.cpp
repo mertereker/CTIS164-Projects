@@ -1,11 +1,9 @@
 /*****
-   CTIS164 - FINAL EXAM
+   CTIS164
 *****
 STUDENT : Merter Eker
 SECTION : 3
 QUESTION 4 - Lighting Simulation - Streetlight
-
-Program working without any problem.
 *****/
 
 #include <GL/glut.h>
