@@ -1,7 +1,7 @@
 /*********
    CTIS164 - Template Source Program
 ----------
-STUDENT : Merter Eker
+STUDENT : Merter Eker 
 SECTION : 3
 HOMEWORK: HW3 -- *Shooting Circles with Rainbow*
 ----------
