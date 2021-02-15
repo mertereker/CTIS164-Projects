@@ -1,7 +1,7 @@
 /*********
    CTIS164 - Template Source Program
 ----------
-STUDENT : Merter Eker
+STUDENT : Merter Eker 
 SECTION : 3
 HOMEWORK: HW2
 ----------
@@ -290,7 +290,7 @@ void duck()
 		glColor3f(0.9, 0.8, 0); //boya
 		glRectf(randomd[d] + (shape + d)->xdpos + 26, shape[d].ydpos + 4, randomd[d] + (shape + d)->xdpos + 28, shape[d].ydpos + 8);
 
-		glColor3f(0.9, 0.4, 0); //agýz
+		glColor3f(0.9, 0.4, 0); //agÃ½z
 		glRectf(randomd[d] + (shape + d)->xdpos + 28, shape[d].ydpos + 6, randomd[d] + (shape + d)->xdpos + 32, shape[d].ydpos + 8);
 
 		glColor3f(0.9, 0.8, 0); //boya
@@ -365,7 +365,7 @@ void gamearea()
 
 	for (int b = -630; b < 675; b += 80)
 	{
-		glBegin(GL_LINES); //cýzgý
+		glBegin(GL_LINES); //cÃ½zgÃ½
 		glColor3f(0, 0, 0);
 		glVertex2f(b, 350);
 		glVertex2f(b, -250);
