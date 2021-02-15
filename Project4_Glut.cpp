@@ -1,4 +1,4 @@
-//164 MIDTERM QUESTION -TIC TOC-
+
 /*******
 STUDENT : Merter Eker
 SECTION : 3
